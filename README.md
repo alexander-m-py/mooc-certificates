@@ -1,7 +1,21 @@
 # mooc-certificates
-Organized repo for my MOOC certificates
+Organized repo for my certificates
 
-2019:
+## 2021
+
+- [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/account/accomplishments/certificate/LNM3H96VPDT3)
+- [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/JBH3AZT7ERDV)
+- [Security in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/LFV58SVW9SDQ)
+- [Developing Applications with Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/VG5MFZDTSQH3)
+- [Preparing for Google Cloud Certification: Cloud Architect Specialization](https://www.coursera.org/account/accomplishments/certificate/474UUDNFDCC4)
+- [Preparing for Google Cloud Certification: Cloud Security Engineer Specialization](https://www.coursera.org/account/accomplishments/certificate/3GGLFW82LXG5)
+- [Preparing for Google Cloud Certification: Cloud Network Engineer Specialization](https://www.coursera.org/account/accomplishments/certificate/9BJYTKPGFZVT)
+- [Google Cloud Digital Leader Training Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/EKXBCRU2UZV5)
+- [Organizational Change and Culture for Adopting Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/FW7D3MFUGQX7)
+- [Preparing for Google Cloud Certification: Cloud Engineer Specialization](https://www.coursera.org/account/accomplishments/certificate/LLL2T4RJDYZE)
+- [Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/Y67B325XS6Z8)
+
+## 2019
 - [Recommender Systems - Matrix Factorization and Advanced Techniques by University of Minnesota on Coursera](https://www.coursera.org/account/accomplishments/certificate/KT4YHCS8MNBG)
 - [Recommender Systems - Evaluation and Metrics by University of Minnesota on Coursera](https://www.coursera.org/account/accomplishments/certificate/UPKJ7P9YFEW7)
 - [Recommender Systems - Nearest Neighbor Collaborative Filtering by University of Minnesota on Coursera ](https://www.coursera.org/account/accomplishments/certificate/EXDB2LLRJVTE)
@@ -13,7 +27,7 @@ Organized repo for my MOOC certificates
 - [Deep Learning - Sequence Models by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/certificate/K89AN8WS9MFZ)
 - [Deep Learning - Neural Networks and Deep Learning by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/certificate/MKNEWVLL8D2T)
 
-2018:
+## 2018
 - [Data Scientist with Python Track, a 22-course specialization on DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/392ad4237ceabc18996e0c10729271a4bbf6d365)
 - [Python Programmer, a 10-course track on DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/272a1c6aca301912ab95d5c221d00e77320d78ba)
 - [Supervised Learning with scikit-learn Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/9a53415acb28a55befda9fa752c1ad583921a389)
@@ -39,5 +53,5 @@ Organized repo for my MOOC certificates
 - [Intro to SQL for Data Science Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/c04c8845e871017f4d4b46eafc92e7c7cd87275f)
 - [Introduction to Databases in Python Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/b922ef3f18e400fabebed8e73367797ff6f46fca)
 
-2016:
+## 2016
 - [Introduction to Python Course on DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/a317f8846538feb38b9b02959f3772d60871d0bc)
