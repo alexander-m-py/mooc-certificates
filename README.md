@@ -3,6 +3,7 @@ Organized repo for my certificates
 
 ## 2021
 
+- [Oracle Cloud Infrastructure Foundations Certified Associate](https://github.com/alexander-m-py/mooc-certificates/blob/master/2021/Oracle%20Cloud%20Infrastructure%20Foundations%20Certified%20Associate.pdf)
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/account/accomplishments/certificate/LNM3H96VPDT3)
 - [Networking in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/JBH3AZT7ERDV)
 - [Security in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/certificate/LFV58SVW9SDQ)
