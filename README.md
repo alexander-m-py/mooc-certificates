@@ -1,6 +1,9 @@
 # mooc-certificates
 Organized repo for my certificates
 
+## 2026
+- [Claude Certified Architect - Professional](2026/Claude%20Certified%20Architect%20-%20Professional.pdf) — Anthropic. [Verify on Credly](https://www.credly.com/badges/7b6fb71e-a394-4e6b-8c16-f7249fd81414).
+
 ## 2023
 - [Feature Engineering](https://github.com/alexander-m-py/mooc-certificates/blob/master/2023/Coursera%205WJBWFCNDKYN%20-%20Feature%20Engineering.pdf)
 - [Google Cloud Big Data and Machine Learning Fundamentals](https://github.com/alexander-m-py/mooc-certificates/blob/master/2023/Coursera%203YL2Y8LDSR93%20-%20Google%20Cloud%20Big%20Data%20and%20Machine%20Learning%20Fundamentals.pdf)
